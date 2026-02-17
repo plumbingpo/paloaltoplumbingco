@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paloaltoplumbingco.com/sitemap.xml
